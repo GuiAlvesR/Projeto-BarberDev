@@ -1,1 +1,1 @@
-# Projeto-BarberDev Landing Page Teste 
+# Projeto BarberDev Landing Page 
